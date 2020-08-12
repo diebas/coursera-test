@@ -1,0 +1,53 @@
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar-brand h1 {
+  margin: 15px;
+  color: black;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+.page-heading {
+  margin-bottom: 40px;
+}
+
+.navbar-header {
+  height: 80px;
+}
+
+.container-fluid {
+  background-color: rgb(165, 159, 159);
+}
+
+.navbar-toggle {
+  margin-top: 20px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+
+li {
+  border: solid 1px;
+  height: 30px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0em;
+  background-color: #ffffff;
+}
+
+.navbar-nav {
+  margin: 0 -20px;
+}
+
+.col-xs-8 {
+  float: none;
+}
